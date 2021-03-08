@@ -1,2 +1,2 @@
 # serchgiles.github.io
-Personal Page
+You can access my personal page [here](https://serchgiles.github.io/).
